@@ -1,0 +1,17 @@
+{
+	"ulid": "01K19M7KT3CAMYNCJ84XER91JP",
+	"minTime": 1753732809660,
+	"maxTime": 1753740000000,
+	"stats": {
+		"numSamples": 823057,
+		"numSeries": 6892,
+		"numChunks": 6892
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01K19M7KT3CAMYNCJ84XER91JP"
+		]
+	},
+	"version": 1
+}
