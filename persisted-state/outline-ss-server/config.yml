@@ -12,18 +12,6 @@ keys:
     port: 3987
     secret: rDVfHdQhEPuy0mIvksEQsX
   - cipher: chacha20-ietf-poly1305
-    id: '5'
-    port: 3987
-    secret: FWJwugzADt6a07XqwRqtNN
-  - cipher: chacha20-ietf-poly1305
-    id: '6'
-    port: 3987
-    secret: IqZVJ9nVGkfy9bauYehoH2
-  - cipher: chacha20-ietf-poly1305
-    id: '7'
-    port: 3987
-    secret: nFHJJ0rGFn5KudcsD7DpaN
-  - cipher: chacha20-ietf-poly1305
     id: '8'
     port: 3987
     secret: 8zxCw5EFJXtYRPVSkXkAXE
@@ -44,10 +32,6 @@ keys:
     port: 3987
     secret: BPYJRXksZwBoF1CzPAkAlP
   - cipher: chacha20-ietf-poly1305
-    id: '13'
-    port: 3987
-    secret: F7FXlzKtKo2RXiHc6VOLeC
-  - cipher: chacha20-ietf-poly1305
     id: '14'
     port: 3987
     secret: P1JmO99rCLLBOY8xa7K8jS
@@ -63,10 +47,6 @@ keys:
     id: '17'
     port: 3987
     secret: pantotmbmnPCasfWv22NrC
-  - cipher: chacha20-ietf-poly1305
-    id: '18'
-    port: 3987
-    secret: h9K4dBzLcsiRZQZ1dNddn1
   - cipher: chacha20-ietf-poly1305
     id: '19'
     port: 3987
@@ -91,10 +71,6 @@ keys:
     id: '24'
     port: 3987
     secret: jlUI9s2gRusv4qRxBK5fEh
-  - cipher: chacha20-ietf-poly1305
-    id: '25'
-    port: 3987
-    secret: GHhwaDEfk7LvE4SVIyq8MZ
   - cipher: chacha20-ietf-poly1305
     id: '26'
     port: 3987
@@ -127,10 +103,6 @@ keys:
     id: '33'
     port: 3987
     secret: j8Af46A9F0Z6kfu1dmg0oe
-  - cipher: chacha20-ietf-poly1305
-    id: '34'
-    port: 3987
-    secret: 0dv9i7D6UBo1vuKKCSiwF8
   - cipher: chacha20-ietf-poly1305
     id: '35'
     port: 3987
@@ -195,3 +167,7 @@ keys:
     id: '50'
     port: 3987
     secret: 6bcdKTxWhrrD93tCmZBd9e
+  - cipher: chacha20-ietf-poly1305
+    id: '51'
+    port: 44526
+    secret: 2aK5f4e3BQcsIEL3F4aVmK
